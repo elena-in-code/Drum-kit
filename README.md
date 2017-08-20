@@ -12,6 +12,7 @@
 <ul>
 	<li>Make sure your audio is on</li>
   <li>Press the letter keys as it says on the screen</li>
+   <li>Only works in computer</li>
 </ul>
 
 <h5>Hope you enjoy it!</h5>
