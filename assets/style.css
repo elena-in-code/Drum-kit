@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(https://static.pexels.com/photos/196652/pexels-photo-196652.jpeg) bottom center;
+  background: url(https://static.pexels.com/photos/196652/pexels-photo-196652.jpeg) bottom center no-repeat;
   background-size: cover;
 }
 body,html {
